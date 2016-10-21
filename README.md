@@ -1,2 +1,2 @@
-# webSplitter 
-Current only spport horizontal.
+# webSplitter
+Current only spport horizontal ...
